@@ -1,0 +1,44 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+17
+-sourcepath
+'C:/Users/JB/OneDrive/Documentos/NetBeansProjects/Trabajo_java/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/JB/OneDrive/Documentos/NetBeansProjects/Trabajo_java/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'Trabajo_java 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'Trabajo_java 1.0-SNAPSHOT API'
+com.mycompany.Java_exercise
+C:\Users\JB\OneDrive\Documentos\NetBeansProjects\Trabajo_java\src\main\java = 1738422456553
+C:\Users\JB\OneDrive\Documentos\NetBeansProjects\Trabajo_java\target\reports\apidocs\allclasses-index.html = 1738422842333
+C:\Users\JB\OneDrive\Documentos\NetBeansProjects\Trabajo_java\target\reports\apidocs\allpackages-index.html = 1738422842373
+C:\Users\JB\OneDrive\Documentos\NetBeansProjects\Trabajo_java\target\reports\apidocs\element-list = 1738422841727
+C:\Users\JB\OneDrive\Documentos\NetBeansProjects\Trabajo_java\target\reports\apidocs\help-doc.html = 1738422842561
+C:\Users\JB\OneDrive\Documentos\NetBeansProjects\Trabajo_java\target\reports\apidocs\index-all.html = 1738422842514
+C:\Users\JB\OneDrive\Documentos\NetBeansProjects\Trabajo_java\target\reports\apidocs\index.html = 1738422842517
+C:\Users\JB\OneDrive\Documentos\NetBeansProjects\Trabajo_java\target\reports\apidocs\jquery-ui.overrides.css = 1738422842624
+C:\Users\JB\OneDrive\Documentos\NetBeansProjects\Trabajo_java\target\reports\apidocs\member-search-index.js = 1738422842400
+C:\Users\JB\OneDrive\Documentos\NetBeansProjects\Trabajo_java\target\reports\apidocs\module-search-index.js = 1738422842388
+C:\Users\JB\OneDrive\Documentos\NetBeansProjects\Trabajo_java\target\reports\apidocs\overview-tree.html = 1738422842251
+C:\Users\JB\OneDrive\Documentos\NetBeansProjects\Trabajo_java\target\reports\apidocs\package-search-index.js = 1738422842395
+C:\Users\JB\OneDrive\Documentos\NetBeansProjects\Trabajo_java\target\reports\apidocs\script.js = 1738422842571
+C:\Users\JB\OneDrive\Documentos\NetBeansProjects\Trabajo_java\target\reports\apidocs\search.js = 1738422842574
+C:\Users\JB\OneDrive\Documentos\NetBeansProjects\Trabajo_java\target\reports\apidocs\stylesheet.css = 1738422842569
+C:\Users\JB\OneDrive\Documentos\NetBeansProjects\Trabajo_java\target\reports\apidocs\tag-search-index.js = 1738422842405
+C:\Users\JB\OneDrive\Documentos\NetBeansProjects\Trabajo_java\target\reports\apidocs\type-search-index.js = 1738422842398
